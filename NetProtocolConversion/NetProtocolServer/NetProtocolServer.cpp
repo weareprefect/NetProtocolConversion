@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-
+#include <QCoreApplication>
 
 int main()
 {
