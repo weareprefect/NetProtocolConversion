@@ -1,0 +1,1 @@
+ROBOCOPY %cd%\qt64\bin\  %cd%\bin\  /E /MT:4
